@@ -1,2 +1,0 @@
-# Actividad7_comunicaci-nasertivalab
-
