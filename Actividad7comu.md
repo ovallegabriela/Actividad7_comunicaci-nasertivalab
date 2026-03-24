@@ -74,7 +74,7 @@ Nataneli
 
 **De:** Ana Isabel Castillo López (Timekeeper)  
 **Para:** Equipo  
-**Asunto:** Re: Inicio de organización del mini-proyecto  
+**Asunto:** Inicio de organización del mini-proyecto  
 
 Buen día,  
 De acuerdo con lo indicado. Les recuerdo que contamos con 50 minutos, por lo que sugiero dedicar los primeros 10 minutos a la definición del problema y luego avanzar con las funcionalidades.  
@@ -104,7 +104,7 @@ Ixchel
 
 **De:** Jaqueline Gabriela Ovalle Aceituno (Notetaker 2)  
 **Para:** Equipo  
-**Asunto:** Re: Avance en documentación  
+**Asunto:** Avance en documentación  
 
 Buen día,  
 Gracias por el avance. He revisado el documento y he agregado el apartado de roles del sistema. Considero que vamos por buen camino.  
