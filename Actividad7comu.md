@@ -56,15 +56,95 @@ El administrador se encarga de supervisar el sistema. Puede gestionar usuarios y
 
 ## Registro de comunicación
 
-Moderador: Buen día equipo, iniciemos con la definición del problema.  
+### Conversación 1: Inicio de la actividad
 
-Timekeeper: Tenemos 35 minutos, sugiero avanzar con las funcionalidades.  
+**De:** Nataneli Ayeleth Hashajar Cajbón Sabán (Moderador)  
+**Para:** Equipo  
+**Asunto:** Inicio de organización del mini-proyecto  
 
-Notetaker 1: Estoy documentando toda la información en el archivo compartido.  
+Buen día equipo,  
+Espero se encuentren bien. Daremos inicio a la actividad asignando roles y definiendo el problema principal. Les solicito su apoyo para avanzar de manera ordenada y cumplir con el tiempo establecido.  
 
-Notetaker 2: De acuerdo, continuemos con los roles y el flujo de uso.  
+Quedo atenta a sus comentarios.  
 
----  
+Saludos cordiales,  
+Nataneli  
+
+---
+
+**De:** Ana Isabel Castillo López (Timekeeper)  
+**Para:** Equipo  
+**Asunto:** Re: Inicio de organización del mini-proyecto  
+
+Buen día,  
+De acuerdo con lo indicado. Les recuerdo que contamos con 35 minutos, por lo que sugiero dedicar los primeros 10 minutos a la definición del problema y luego avanzar con las funcionalidades.  
+
+Quedo pendiente del avance.  
+
+Saludos,  
+Ana Isabel  
+
+---
+
+### Conversación 2: Desarrollo del documento
+
+**De:** Ixchel Panjoj García (Notetaker 1)  
+**Para:** Equipo  
+**Asunto:** Avance en documentación  
+
+Buen día equipo,  
+Les informo que ya estoy registrando la definición del problema y las funcionalidades en el documento compartido. Por favor, indíquenme si desean agregar o modificar algún punto.  
+
+Quedo atenta a sus aportes.  
+
+Saludos,  
+Ixchel  
+
+---
+
+**De:** Jaqueline Gabriela Ovalle Aceituno (Notetaker 2)  
+**Para:** Equipo  
+**Asunto:** Re: Avance en documentación  
+
+Buen día,  
+Gracias por el avance. He revisado el documento y he agregado el apartado de roles del sistema. Considero que vamos por buen camino.  
+
+Continuemos con el flujo de uso.  
+
+Saludos cordiales,  
+Jaqueline  
+
+---
+
+### Conversación 3: Evento de pérdida de conexión
+
+**De:** Ana Isabel Castillo López (Timekeeper)  
+**Para:** Equipo  
+**Asunto:** Integrante desconectado  
+
+Buen día,  
+Se informa que uno de los integrantes presenta problemas de conexión. Considero necesario redistribuir las tareas para evitar retrasos en la entrega.  
+
+Quedo atenta a su confirmación.  
+
+Saludos,  
+Ana Isabel  
+
+---
+
+**De:** Nataneli Ayeleth Hashajar Cajbón Sabán (Moderador)  
+**Para:** Equipo  
+**Asunto:** Re: Integrante desconectado  
+
+Buen día,  
+De acuerdo. Procedamos a redistribuir las tareas pendientes. Solicito a Ixchel y Jaqueline apoyar con la documentación restante para asegurar la finalización del trabajo.  
+
+Agradezco su colaboración.  
+
+Saludos cordiales,  
+Nataneli  
+
+---
 
 ## Lista de tareas completadas
 
@@ -78,27 +158,27 @@ Notetaker 2: De acuerdo, continuemos con los roles y el flujo de uso.
 
 ## Evento: pérdida de conexión
 
-Durante el desarrollo de la actividad, uno de los integrantes perdió conexión.  
+Durante el desarrollo de la actividad, se presentó un inconveniente cuando uno de los integrantes del equipo perdió conexión, lo cual fue comunicado oportunamente por la Timekeeper a través del correo interno.
 
 ### Solución aplicada
 
-El equipo decidió redistribuir las tareas pendientes entre los integrantes disponibles.  
-El notetaker 1 y 2 asumieron temporalmente algunas responsabilidades adicionales para no detener el avance del trabajo.  
-Se mantuvo la comunicación para asegurar que todas las tareas fueran completadas a tiempo.  
+A partir de la situación, la Moderadora indicó que se debía proceder con la redistribución de las tareas pendientes para evitar retrasos en la entrega.
 
----  
+Las integrantes Ixchel Panjoj García (Notetaker 1) y Jaqueline Gabriela Ovalle Aceituno (Notetaker 2) asumieron responsabilidades adicionales en la documentación del proyecto, asegurando la continuidad del trabajo.
+
+Se mantuvo una comunicación clara y constante mediante correos, lo cual permitió coordinar adecuadamente al equipo y cumplir con los objetivos establecidos dentro del tiempo asignado.
+
+---
 
 ## Conclusiones
 
-El equipo logró organizarse correctamente mediante la asignación de roles y una buena comunicación.  
-Se cumplió con todas las tareas establecidas dentro del tiempo asignado.  
+El equipo logró organizarse de manera efectiva desde el inicio mediante la asignación clara de roles y el uso de una comunicación formal a través de correos electrónicos.
 
-La principal dificultad fue la pérdida de conexión de un integrante, sin embargo, se resolvió de manera eficiente redistribuyendo las responsabilidades.  
+Se cumplió con todas las tareas establecidas, manteniendo un flujo de trabajo ordenado y colaborativo.
 
-Se concluye que el trabajo colaborativo y la comunicación clara son fundamentales para lograr los objetivos en un entorno remoto.
+La principal dificultad fue la pérdida de conexión de un integrante; sin embargo, gracias a la rápida comunicación y toma de decisiones, se logró resolver la situación mediante la redistribución de responsabilidades.
 
-
-
+Se concluye que la comunicación profesional, la organización y el trabajo en equipo son fundamentales para el éxito en entornos de trabajo remoto.
 
 
 
