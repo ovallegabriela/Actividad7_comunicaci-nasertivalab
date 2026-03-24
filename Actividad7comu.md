@@ -123,7 +123,7 @@ Jaqueline
 **Asunto:** Integrante desconectado  
 
 Buen día,  
-Se informa que uno de los integrantes presenta problemas de conexión. Considero necesario redistribuir las tareas para evitar retrasos en la entrega.  
+Se informa que uno de los integrantes Jaqueline presenta problemas de conexión. Considero necesario redistribuir las tareas para evitar retrasos en la entrega.  
 
 Quedo atenta a su confirmación.  
 
@@ -134,7 +134,7 @@ Ana Isabel
 
 **De:** Nataneli Ayeleth Hashajar Cajbón Sabán (Moderador)  
 **Para:** Equipo  
-**Asunto:** Re: Integrante desconectado  
+**Asunto:** Integrante desconectado  
 
 Buen día,  
 De acuerdo. Procedamos a redistribuir las tareas pendientes. Solicito a Ixchel apoyar con la documentación restante para asegurar la finalización del trabajo.  
@@ -158,13 +158,13 @@ Nataneli
 
 ## Evento: pérdida de conexión
 
-Durante el desarrollo de la actividad, se presentó un inconveniente cuando uno de los integrantes del equipo perdió conexión, lo cual fue comunicado oportunamente por la Timekeeper a través del correo interno.
+Durante el desarrollo de la actividad, se presentó un inconveniente cuando uno de los integrantes del equipo perdió conexión, lo cual fue comunicado por la Timekeeper a través del correo interno.
 
 ### Solución aplicada
 
 A partir de la situación, la Moderadora indicó que se debía proceder con la redistribución de las tareas pendientes para evitar retrasos en la entrega.
 
-Las integrantes Ixchel Panjoj García (Notetaker 1) y Jaqueline Gabriela Ovalle Aceituno (Notetaker 2) asumieron responsabilidades adicionales en la documentación del proyecto, asegurando la continuidad del trabajo.
+Lasintegrantes Ixchel Panjoj García (Notetaker 1) asumió responsabilidades adicionales en la documentación del proyecto, asegurando la continuidad del trabajo.
 
 Se mantuvo una comunicación clara y constante mediante correos, lo cual permitió coordinar adecuadamente al equipo y cumplir con los objetivos establecidos dentro del tiempo asignado.
 
