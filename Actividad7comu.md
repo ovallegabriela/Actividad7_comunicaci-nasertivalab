@@ -77,7 +77,7 @@ Nataneli
 **Asunto:** Re: Inicio de organización del mini-proyecto  
 
 Buen día,  
-De acuerdo con lo indicado. Les recuerdo que contamos con 35 minutos, por lo que sugiero dedicar los primeros 10 minutos a la definición del problema y luego avanzar con las funcionalidades.  
+De acuerdo con lo indicado. Les recuerdo que contamos con 50 minutos, por lo que sugiero dedicar los primeros 10 minutos a la definición del problema y luego avanzar con las funcionalidades.  
 
 Quedo pendiente del avance.  
 
