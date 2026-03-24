@@ -137,7 +137,7 @@ Ana Isabel
 **Asunto:** Re: Integrante desconectado  
 
 Buen día,  
-De acuerdo. Procedamos a redistribuir las tareas pendientes. Solicito a Ixchel y Jaqueline apoyar con la documentación restante para asegurar la finalización del trabajo.  
+De acuerdo. Procedamos a redistribuir las tareas pendientes. Solicito a Ixchel apoyar con la documentación restante para asegurar la finalización del trabajo.  
 
 Agradezco su colaboración.  
 
