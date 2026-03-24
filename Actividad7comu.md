@@ -2,10 +2,10 @@
 
 ## Integrantes del equipo
 
-- Moderador: **Nataneli Ayeleth Hashajar Cajbón Sabán**
-- Timekeeper: **Ana Isabel Castillo López**
-- Notetaker 1: **Ixchel Panjoj García** 
-- Notetaker 2:  **Jaqueline Gabriela Ovalle Aceituno**
+- Moderador: **Nataneli Ayeleth Hashajar Cajbón Sabán** 202501861
+- Timekeeper: **Ana Isabel Castillo López** 202505902
+- Notetaker 1: **Ixchel Panjoj García**  202504845 
+- Notetaker 2:  **Jaqueline Gabriela Ovalle Aceituno**  202505428
 
 ---
 
