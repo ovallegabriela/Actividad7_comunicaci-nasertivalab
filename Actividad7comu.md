@@ -1,4 +1,4 @@
-## # Mini-Proyecto 1: Sistema de Gestión de Tareas Académicas
+# Mini-Proyecto 1: Sistema de Gestión de Tareas Académicas
 
 ## Integrantes del equipo
 
